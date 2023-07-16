@@ -1,0 +1,4 @@
+rootProject.name = 'main-repo'
+
+include 'secret-repo-source1'
+include 'secret-repo-source2'

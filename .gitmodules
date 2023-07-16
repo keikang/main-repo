@@ -1,0 +1,6 @@
+[submodule "secret-repo-source1"]
+	path = secret-repo-source1
+	url = https://github.com/keikang/secret-repo-source1.git
+[submodule "secret-repo-source2"]
+	path = secret-repo-source2
+	url = https://github.com/keikang/secret-repo-source2.git
